@@ -1,0 +1,13 @@
+My text file like this
+
+parameter1 10
+parameter2 20
+parameter3 30
+parameter4 40
+parameter5 50
+
+I split the texts and I'm transferring to new values.
+first value:[parameter1],[parameter2],[parameter3],[parameter4],[parameter5]
+second value[10],[20],[30],[40],[50]
+
+Then I write values in excel cells.

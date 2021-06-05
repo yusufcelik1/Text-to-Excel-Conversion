@@ -11,7 +11,7 @@ namespace DosyaKopyalama
 {
     class Class1
     {
-        public void Deneme()
+        public void TexttoExcel()
         {
             #region values
             string[] InputNamesLine = File.ReadAllLines(@"");//Your text file location
